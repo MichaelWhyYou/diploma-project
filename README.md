@@ -1,1 +1,1 @@
-# Diploma Project: Measuring Energy Consumption of Programming Languages and investigating their Role in Green Computing
+# Diploma Project: Measuring Energy Consumption of Programming Languages and Investigating their Role in Green Computing
