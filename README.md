@@ -10,6 +10,7 @@ RQ2: Is the faster programming language always the most energy efficient?
 # Prerequisites
 - **pyRAPL** must be installed. Can be installed with pip: `pip install pyRAPL`.
 - Compilers/Interpreters of each programming language must be installed.
+- Linux
 
 # Basic usage
 1. Grant sudo access for RAPL to access the machine's energy registers:
