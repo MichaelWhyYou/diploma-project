@@ -1,5 +1,5 @@
 # Diploma Project
-[![License: MIT](https://img.shields.io/github/license/MichaelWhyYou/diploma-project)](https://spdx.org/licenses/MIT.html) (Please leave credits)
+[![License: MIT](https://img.shields.io/github/license/MichaelWhyYou/diploma-project)](https://spdx.org/licenses/MIT.html) (Please leave credits :P)
 #### Measuring Energy Consumption of Programming Languages and Investigating their Role in Green Computing.
 
 # About
