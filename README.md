@@ -4,7 +4,9 @@
 
 # About
 This repository contains the testing framework for my graduation project at Kungsholmens Gymnasium, based on our Natural Sciences Programme and Sustainable Development course. It aims to answer the following:
+
 RQ1: Does the energy consumption of processing differ across different programming languages when performing the same set of tasks? 
+
 RQ2: Is the faster programming language always the most energy efficient?
 
 # Prerequisites
