@@ -44,7 +44,7 @@ for test_case in TEST_CASES:
     CSV_Data = [["TRIAL", test_case + "-Energy", test_case + "-Time"]]
     command = [language_options[selected_language][0], "TEST_" + selected_language + "/" + test_case + language_options[selected_language][1]] # Command to execute
     if selected_language == "cpp" or selected_language == "c": 
-        command = ["./TEST_" + selected_language + "/"+test_case]
+        command = ["./TEST_" + selected_language + "/" + test_case]
     print("=== " + selected_language + ": Starting " + test_case + " Trials ===")
     for n in range(trials):
 
