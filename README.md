@@ -9,6 +9,9 @@ RQ1: Does the energy consumption of processing differ across different programmi
 
 RQ2: Is the faster programming language always the most energy efficient?
 
+RQ3: How can the choice of programming language lower the environmental impact of big
+data processing and data mining?
+
 # Prerequisites
 - **pyRAPL** must be installed. Can be installed with pip: `pip install pyRAPL`.
 - Compilers/Interpreters of each programming language must be installed.
