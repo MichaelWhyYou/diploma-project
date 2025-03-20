@@ -5,12 +5,11 @@
 # About
 This repository contains the testing framework for my graduation project at Kungsholmens Gymnasium, based on our Natural Sciences Programme and Sustainable Development course. It aims to answer the following:
 
-RQ1: Does the energy consumption of processing differ across different programming languages when performing the same set of tasks? 
+RQ1: How does the energy consumption of processing differ across different programming languages when performing the same set of tasks?
 
 RQ2: Is the faster programming language always the most energy efficient?
 
-RQ3: How can the choice of programming language lower the environmental impact of big
-data processing and data mining?
+RQ3: What role does programming language choice play in reducing the energy consumption of big data processing and data mining?
 
 # Prerequisites
 - **pyRAPL** must be installed. Can be installed with pip: `pip install pyRAPL`.
